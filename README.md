@@ -9,8 +9,8 @@
 **Scripts on my GitHub include**:  
 
 - [My custom RStudio theme - Greyverse](https://github.com/nikita-telkar/Projects/tree/master/Greyverse_RStudio_Theme)  
-- [Tutorial for alignement of raw genomic sequence data to the human genome](https://github.com/nikita-telkar/Projects/tree/master/RNA-seq%20-%20FASTQ%20to%20Expression%20Counts) 
-- [RNA-seq QC, processing, analysis, and Gene Set Enrichment Analysis (GSEA) of human colon organoids](https://github.com/nikita-telkar/Projects/tree/master/GSEA%20of%20Human%20Colonic%20Organoids)  
+- [Aligning raw genomic sequence data to the human genome](https://github.com/nikita-telkar/Projects/tree/master/RNA-seq%20-%20FASTQ%20to%20Expression%20Counts) 
+- [RNA-seq: QC, processing, analysis, and Gene Set Enrichment Analysis (GSEA) of human colon organoids](https://github.com/nikita-telkar/Projects/tree/master/GSEA%20of%20Human%20Colonic%20Organoids)  
 
 <br>
 
